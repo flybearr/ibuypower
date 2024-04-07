@@ -1,0 +1,148 @@
+{
+  "pc": [
+    {
+      "name": "Creator RDY Y40BG201",
+      "system": "Windows 11 Home",
+      "cpu": "Intel® Core™ i9-14900KF CPU",
+      "gpu": "GeForce RTX 4070 Ti SUPER - 16GB",
+      "ssd": "2TB M.2 NVMe Gen4 SSD",
+      "ram": "32GB DDR5-6000MHz RGB RAM",
+      "src": "/images/image1.avif",
+      "discount": 300,
+      "price": 3399,
+      "custom": 0
+    },
+    {
+      "name": "EliteBook G4 440",
+      "system": "Windows 10 Pro",
+      "cpu": "Intel® Core™ i7-1185G7 CPU",
+      "gpu": "Intel® Iris® Xe Graphics",
+      "ssd": "512GB PCIe NVMe M.2 SSD",
+      "ram": "16GB DDR4-3200 SDRAM",
+      "src": "/images/image2.avif",
+      "discount": 400,
+      "price": 2599,
+      "custom": 0
+    },
+    {
+      "name": "Inspiron 15 3000",
+      "system": "Windows 11 Home",
+      "cpu": "Intel® Core™ i5-1135G7 CPU",
+      "gpu": "Intel® Iris® Xe Graphics",
+      "ssd": "256GB M.2 PCIe NVMe SSD",
+      "ram": "8GB DDR4 3200MHz",
+      "src": "/images/image3.avif",
+      "discount": 500,
+      "price": 1488,
+      "custom": 1
+    },
+    {
+      "name": "Legion Y9000K",
+      "system": "Windows 10 Pro",
+      "cpu": "Intel® Core™ i7-11800H CPU",
+      "gpu": "NVIDIA® GeForce RTX™ 3060 Ti - 6GB",
+      "ssd": "512GB PCIe NVMe M.2 SSD",
+      "ram": "16GB DDR4 3200MHz",
+      "src": "/images/image4.avif",
+      "discount": 100,
+      "price": 6690,
+      "custom": 1
+    },
+    {
+      "name": "Pavilion x360",
+      "system": "Windows 11 Home",
+      "cpu": "Intel® Core™ i5-1135G7 CPU",
+      "gpu": "Intel® Iris® Xe Graphics",
+      "ssd": "256GB PCIe NVMe M.2 SSD",
+      "ram": "8GB DDR4-3200 SDRAM",
+      "src": "/images/image1.avif",
+      "discount": 200,
+      "price": 3999,
+      "custom": 0
+    },
+    {
+      "name": "ThinkPad T14 Gen 2",
+      "system": "Windows 10 Pro",
+      "cpu": "Intel® Core™ i7-1165G7 CPU",
+      "gpu": "Intel® Iris® Xe Graphics",
+      "ssd": "512GB PCIe NVMe M.2 SSD",
+      "ram": "16GB DDR4 3200MHz",
+      "src": "/images/image2.avif",
+      "discount": 150,
+      "price": 3899,
+      "custom": 1
+    },
+    {
+      "name": "Surface Laptop Studio",
+      "system": "Windows 11 Home",
+      "cpu": "Intel® Core™ i7-11800H CPU",
+      "gpu": "NVIDIA® GeForce RTX™ 3050 Ti - 4GB",
+      "ssd": "512GB PCIe NVMe SSD",
+      "ram": "16GB DDR4x RAM",
+      "src": "/images/image3.avif",
+      "discount": 300,
+      "price": 2499,
+      "custom": 0
+    },
+    {
+      "name": "MacBook Pro (14-inch, M1 Pro)",
+      "system": "macOS Monterey",
+      "cpu": "Apple M1 Pro chip with 10-core CPU",
+      "gpu": "16-core Apple GPU",
+      "ssd": "1TB SSD",
+      "ram": "16GB unified memory",
+      "src": "/images/image4.avif",
+      "discount": 200,
+      "price": 2499,
+      "custom": 1
+    },
+    {
+      "name": "ROG Zephyrus G14",
+      "system": "Windows 11 Home",
+      "cpu": "AMD Ryzen™ 9 5900HS",
+      "gpu": "NVIDIA® GeForce RTX™ 3060 - 6GB",
+      "ssd": "1TB PCIe NVMe SSD",
+      "ram": "16GB DDR4 3200MHz",
+      "src": "/images/image1.avif",
+      "discount": 400,
+      "price": 1999,
+      "custom": 1
+    },
+    {
+      "name": "XPS 15",
+      "system": "Windows 11 Home",
+      "cpu": "Intel® Core™ i7-11800H",
+      "gpu": "NVIDIA® GeForce RTX™ 3050 Ti - 4GB",
+      "ssd": "512GB PCIe NVMe SSD",
+      "ram": "16GB DDR4 3200MHz",
+      "src": "/images/image2.avif",
+      "discount": 300,
+      "price": 1999,
+      "custom": 0
+    },
+    {
+      "name": "Legion 5 Pro",
+      "system": "Windows 10 Home",
+      "cpu": "AMD Ryzen™ 7 5800H",
+      "gpu": "NVIDIA® GeForce RTX™ 3070 - 8GB",
+      "ssd": "1TB PCIe NVMe SSD",
+      "ram": "16GB DDR4 3200MHz",
+      "src": "/images/image3.avif",
+      "discount": 200,
+      "price": 1699,
+      "custom": 1
+    },
+    {
+      "name": "Asus VivoBook S15",
+      "system": "Windows 10 Home",
+      "cpu": "Intel® Core™ i5-1135G7",
+      "gpu": "Intel® Iris® Xe Graphics",
+      "ssd": "512GB PCIe NVMe SSD",
+      "ram": "8GB DDR4 3200MHz",
+      "src": "/images/image4.avif",
+      "discount": 100,
+      "price": 799,
+      "custom": 0
+    }
+  ]
+}
